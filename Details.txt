@@ -1,0 +1,14 @@
+Technology used:
+Front-end = [
+    vinella js,
+    css,
+    leaflet-library
+]
+Back-end = [
+    nodejs,
+    expressjs,
+    socket.io,
+    ejs
+
+
+]
